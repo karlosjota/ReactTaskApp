@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-19T11:57:29+02:00
+By: @karlosjota
+Date: 01/02/2022
+Sources: React 
+---------------
+url_source: https://www.youtube.com/watch?v=HMKVnwlhJO0&ab_channel=FaztCode
+local_dir: /home/karlos/Escritorio/Proyectos/reactTaskApp/
+canal: Faztcode
+
+====== ReactTaskApp ======
+Created viernes 19 junio 2015
+
+
